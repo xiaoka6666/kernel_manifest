@@ -147,6 +147,6 @@
   <project path="external/python/absl-py" name="platform/external/python/absl-py" groups="partner"/>
   <project path="external/stardoc" name="platform/external/stardoc" groups="partner"/>
   <project path="prebuilts/bazel/linux-x86_64" name="platform/prebuilts/bazel/linux-x86_64" groups="partner" clone-depth="1"/>
-  <project path="prebuilts/jdk/jdk11" name="platform/prebuilts/jdk/jdk11" groups="partner"clone-depth="1" />
+  <project path="prebuilts/jdk/jdk11" name="platform/prebuilts/jdk/jdk11" groups="partner" clone-depth="1" />
   <project path="prebuilts/ndk-r23" name="toolchain/prebuilts/ndk/r23" groups="partner" clone-depth="1"/>
 </manifest>
